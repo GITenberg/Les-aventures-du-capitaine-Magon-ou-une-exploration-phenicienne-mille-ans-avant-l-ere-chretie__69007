@@ -1,0 +1,41 @@
+_repo: Les-aventures-du-capitaine-Magon-ou-une-exploration-phenicienne-mille-ans-avant-l-ere-chretie__69007
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Philippoteaux, Paul
+    alias: Philippoteaux, P. (Paul)
+    birthdate: 1846
+    deathdate: 1923
+    gutenberg_agent_id: '26728'
+    url: http://www.gutenberg.org/2009/agents/26728
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Philippoteaux
+creator:
+  author:
+    agent_name: Cahun, David-Léon
+    aliases:
+    - Cahun, David-Leon
+    - Cahun, Léon
+    birthdate: 1841
+    deathdate: 1900
+    gutenberg_agent_id: '44382'
+    url: http://www.gutenberg.org/2009/agents/44382
+    wikipedia: https://en.wikipedia.org/wiki/L%C3%A9on_Cahun
+description: ''
+gutenberg_issued: '2022-09-18'
+identifiers:
+  gutenberg: '69007'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k2044916.image
+pgterms:marc905: 20220913064716cahun
+pgterms:marc906: '1891'
+pgterms:marc907: fr
+production_note: Aurēliānus Agricola
+publication_note: France :Librairie Hachette et compagnie,1891.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Les aventures du capitaine Magon: ou une exploration phénicienne mille ans
+  avant l''ère chrétienne'
+url: http://www.gutenberg.org/ebooks/69007
