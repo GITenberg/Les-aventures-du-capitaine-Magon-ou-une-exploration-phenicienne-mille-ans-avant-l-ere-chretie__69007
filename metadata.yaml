@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26728'
     url: http://www.gutenberg.org/2009/agents/26728
     wikipedia: http://en.wikipedia.org/wiki/Paul_Philippoteaux
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cahun, David-Léon
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44382
     wikipedia: https://en.wikipedia.org/wiki/L%C3%A9on_Cahun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69007#Les-aventures-du-capitaine-Magon-ou-une-exploration-phenicienne-mille-ans-avant-l-ere-chretie_
 gutenberg_issued: '2022-09-18'
 identifiers:
   gutenberg: '69007'
